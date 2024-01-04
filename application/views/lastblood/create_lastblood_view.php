@@ -67,7 +67,8 @@
 </head>
 <body>
 
-    <h2>Add Driver</h2>
+    <h2>Add Drivers
+	</h2>
 
     <?php echo validation_errors(); ?>
 
